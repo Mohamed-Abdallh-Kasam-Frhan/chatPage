@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #eee;
+    padding-top: 20px;
+    }
+    
+.father{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(193, 198, 200);
+margin: 0 auto;
+border-radius: 10px;
+}
+.div_chlid{
+    background-color: white;
+    overflow-x: auto;
+    width: 300px;
+    height: 350px;
+}
+
+.chlid{
+    width:300px;
+    height: 100px;
+    border-top: 2px black solid;
+}
+ 
+ img {
+
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.img_groub{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 5px;
+
+}
+p{
+  position: relative;  
+  bottom: 50px;
+  left: 80px;
+}
+span{
+    position: relative;
+    bottom: 50px;
+    left: 80px;
+}
+ 

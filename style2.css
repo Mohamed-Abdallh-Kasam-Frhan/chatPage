@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #b6b3b3;
+    padding-top: 20px;
+    }
+    
+.father{
+    width: 350px;
+    height: 420px;
+    background-color: #eee;
+margin: 0 auto;
+border-radius: 10px;
+}
+.div_child2{
+    position: relative ;
+bottom: 30px;
+    background-color :white;
+    overflow-x: auto;
+    width: 350px;
+    height: 300px;
+}
+.send{
+    background-color: rgb(57, 133, 108);
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    color: azure;
+    border-radius: 10px 3px 10px 10px;
+    box-sizing: border-box;
+position: relative;
+left: 120px;
+}
+.recevied{
+    background-color: #eee;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    color: rgb(14, 22, 22);
+    border-radius: 3px 10px 10px 10px;
+    box-sizing: border-box;
+position: relative;
+
+
+}
+ 
+ img {
+
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+  
+.text_head{
+    position: relative;  
+    bottom: 40px;
+    left: 70px;
+  } 
+  span{
+    color: rgb(144, 200, 112);
+  }
+  .time{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:10px;
+
+  }
+   [ type="text"]{
+    background-color:white;
+    width: 280px;
+    height: 30PX;
+    position: relative;
+    left: 10PX;
+    bottom: 35PX;
+    border-radius: 10PX;
+    box-sizing: border-box;
+    resize: none;
+    overflow-y: auto;
+
+  }
+  button{
+    position: relative;
+    left: 8px;
+    bottom: 25px;
+    border: none;
+  }
+  
+.logo_send{
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+}
+  
+
+ 
